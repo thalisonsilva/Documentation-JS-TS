@@ -1,5 +1,5 @@
 
-# JavaScript & TypeScript Study Guide
+# JavaScript & TypeScript Study Guide! 
 
 Welcome to this comprehensive study guide designed to help you master JavaScript and TypeScript! Whether you're a beginner taking your first steps in web development or an experienced developer looking to deepen your understanding, this guide has something for everyone.
 
@@ -58,4 +58,8 @@ Let's learn and grow together!
 ---
 
 
+<<<<<<< HEADgit sta
 ## Let me know if you'd like help refining any specific sections!
+=======
+Let me know if you'd like help refining any specific sections!
+>>>>>>> dbf7bcd3e1e46a57d6b22d4ba046623006d2c43c
