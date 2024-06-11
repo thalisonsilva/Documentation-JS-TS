@@ -58,8 +58,4 @@ Let's learn and grow together!
 ---
 
 
-<<<<<<< HEADgit sta
 ## Let me know if you'd like help refining any specific sections!
-=======
-Let me know if you'd like help refining any specific sections!
->>>>>>> dbf7bcd3e1e46a57d6b22d4ba046623006d2c43c
