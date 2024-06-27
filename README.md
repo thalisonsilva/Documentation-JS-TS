@@ -6,7 +6,7 @@ Welcome to this comprehensive study guide designed to help you master JavaScript
 ## Table of Contents
 
 1. **Introduction**
-   - What is JavaScript?
+   - What is JavaScript? 
    - What is TypeScript?
    - Why Learn JavaScript and TypeScript?
 2. **Getting Started**
