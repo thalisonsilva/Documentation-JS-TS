@@ -3,7 +3,7 @@
 
 Welcome to this comprehensive study guide designed to help you master JavaScript and TypeScript! Whether you're a beginner taking your first steps in web development or an experienced developer looking to deepen your understanding, this guide has something for everyone.
 
-## Table of Contents
+## Table of Contents 
 
 1. **Introduction**
    - What is JavaScript? 
